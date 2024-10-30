@@ -1,0 +1,3 @@
+login,full_name,created_at,language,stargazers_count
+user1,user1/repo1,2024-01-01,Python,10
+user2,user2/repo1,2024-01-02,JavaScript,20
